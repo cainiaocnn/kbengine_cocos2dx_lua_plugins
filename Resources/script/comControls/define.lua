@@ -1,0 +1,7 @@
+require "uiExtern/RotateMenu.lua"
+require "uiExtern/BarrageLayer.lua"
+require "uiExtern/BarrageLayer.lua"
+require "uiExtern/BeamLayer.lua"
+require "uiExtern/UIScrollMenu.lua"
+require "uiExtern/RotateMenuEx.lua"
+require "uiExtern/VerticalRotateMenu.lua"
